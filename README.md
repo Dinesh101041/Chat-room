@@ -1,6 +1,6 @@
 # Chat-room
 
-This is chatroom donw with tutorial of brad traversy
+This is chatroom done with tutorial of brad traversy
 
 # Dependencies
 
