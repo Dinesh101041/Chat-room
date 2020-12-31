@@ -19,9 +19,9 @@ This is chatroom done with tutorial of brad traversy
    after go to http://localhost:5000/
       
 #Demo images
-![imgae](demoe.png)
+![image](demoe.png)
 
-![imgae](demot.png)
+![image](demot.png)
 
           
           
