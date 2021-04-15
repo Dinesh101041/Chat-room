@@ -16,7 +16,6 @@ This is chatroom done with tutorial of brad traversy
     npm install
     npm run dev
     
-   after go to http://localhost:5000/
       
 #Demo images
 ![image](demoe.png)
